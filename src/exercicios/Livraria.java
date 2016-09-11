@@ -51,7 +51,7 @@ public class Livraria {
 				"TiTulo do livro: "+ this.titulo + "\n" +
 				"Nome do autor: "+ this.autor + "\n"+
                                 "Ano de publicação: "+ this.ano + "\n"+
-				"Preço: "+ this.preco + "\n----------------";
+				"Preco: "+ this.preco + "\n----------------";
     }
 
     
